@@ -1,0 +1,18 @@
+.text{
+    width:80%;
+    background-color:#FCF5FA;
+    border-radius:10px;
+    height:30px;
+    color:#39437F;
+    outline: none;
+    border:none;
+    margin-left:10%;
+    margin-top:2.5%;
+    margin-bottom:1%;
+    font-size: 1.5rem;
+    padding: 10px;
+}
+input::placeholder{
+    font-size:1rem;
+}
+
